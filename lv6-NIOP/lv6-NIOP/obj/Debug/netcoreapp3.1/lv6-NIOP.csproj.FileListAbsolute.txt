@@ -1,0 +1,13 @@
+D:\Gabrijel Kastelan 3.b\lv6-NIOP\lv6-NIOP\obj\Debug\netcoreapp3.1\lv6-NIOP.csprojAssemblyReference.cache
+D:\Gabrijel Kastelan 3.b\lv6-NIOP\lv6-NIOP\obj\Debug\netcoreapp3.1\lv6-NIOP.AssemblyInfoInputs.cache
+D:\Gabrijel Kastelan 3.b\lv6-NIOP\lv6-NIOP\obj\Debug\netcoreapp3.1\lv6-NIOP.AssemblyInfo.cs
+D:\Gabrijel Kastelan 3.b\lv6-NIOP\lv6-NIOP\obj\Debug\netcoreapp3.1\lv6-NIOP.csproj.CoreCompileInputs.cache
+D:\Gabrijel Kastelan 3.b\lv6-NIOP\lv6-NIOP\bin\Debug\netcoreapp3.1\lv6-NIOP.exe
+D:\Gabrijel Kastelan 3.b\lv6-NIOP\lv6-NIOP\bin\Debug\netcoreapp3.1\lv6-NIOP.deps.json
+D:\Gabrijel Kastelan 3.b\lv6-NIOP\lv6-NIOP\bin\Debug\netcoreapp3.1\lv6-NIOP.runtimeconfig.json
+D:\Gabrijel Kastelan 3.b\lv6-NIOP\lv6-NIOP\bin\Debug\netcoreapp3.1\lv6-NIOP.runtimeconfig.dev.json
+D:\Gabrijel Kastelan 3.b\lv6-NIOP\lv6-NIOP\bin\Debug\netcoreapp3.1\lv6-NIOP.dll
+D:\Gabrijel Kastelan 3.b\lv6-NIOP\lv6-NIOP\bin\Debug\netcoreapp3.1\lv6-NIOP.pdb
+D:\Gabrijel Kastelan 3.b\lv6-NIOP\lv6-NIOP\obj\Debug\netcoreapp3.1\lv6-NIOP.dll
+D:\Gabrijel Kastelan 3.b\lv6-NIOP\lv6-NIOP\obj\Debug\netcoreapp3.1\lv6-NIOP.pdb
+D:\Gabrijel Kastelan 3.b\lv6-NIOP\lv6-NIOP\obj\Debug\netcoreapp3.1\lv6-NIOP.genruntimeconfig.cache
